@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012.01.28 13:58:08.104.dproj,D:\DOGAN\DOGAN\projeler\Project1.dproj=D:\DOGAN\DOGAN\projeler\DR_NOBET\Dr_nobet.dproj</Transaction>
+    <Transaction>2012.02.20 14:48:36.154.pas,D:\DOGAN\DOGAN\projeler\EVRAKTAKIP2\DR_NOBET\Unit1.pas=D:\DOGAN\DOGAN\projeler\EVRAKTAKIP2\DR_NOBET\udr_nob_sayi.pas</Transaction>
+    <Transaction>2012.02.20 14:48:36.154.dfm,D:\DOGAN\DOGAN\projeler\EVRAKTAKIP2\DR_NOBET\Unit1.dfm=D:\DOGAN\DOGAN\projeler\EVRAKTAKIP2\DR_NOBET\udr_nob_sayi.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
